@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: hygieia
+Build-Jdk: 1.8.0_151
+Extension-Name: hygieia-publisher
+Specification-Title: A Build status publisher that notifies Hygieia
+Implementation-Title: hygieia-publisher
+Implementation-Version: 2.0.5-SNAPSHOT
+Group-Id: org.jenkins-ci.plugins
+Short-Name: hygieia-publisher
+Long-Name: Hygieia Publisher Plugin
+Url: https://github.com/capitalone/Hygieia
+Plugin-Version: 2.0.5-SNAPSHOT (private-280a25bc-hygieia)
+Hudson-Version: 1.609.2
+Jenkins-Version: 1.609.2
+Plugin-Dependencies: git:2.5.0,multiple-scms:0.6,workflow-job:1.11,sub
+ version:2.6
+Plugin-Developers: Tapabrata "Topo" Pal:tabladrum:tapabrata.pal@capita
+ lone.com
+

@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: tderuyter
+Build-Jdk: 1.7.0_101
+Extension-Name: summary_report
+Specification-Title: Extend build and project page with extended resul
+ ts in XML format
+Implementation-Title: summary_report
+Implementation-Version: 1.15
+Group-Id: org.jenkins-ci.plugins
+Short-Name: summary_report
+Long-Name: Summary Display Plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Summary+Display+Plugin
+Plugin-Version: 1.15
+Hudson-Version: 1.580.1
+Jenkins-Version: 1.580.1
+Plugin-Developers: Deruyter Thomas:deruyter:tderuyte@gmail.com
+
